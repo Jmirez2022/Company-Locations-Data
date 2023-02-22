@@ -54,6 +54,7 @@ Address
 DOB
 Experience
 Current Position
+Salary
 Terminated?
 Comments
 
